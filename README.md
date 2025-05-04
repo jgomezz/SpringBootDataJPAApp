@@ -74,7 +74,7 @@ public class Producto {
 ```
 
 
-#### 2.- En la capa de repositorio extender las interfases de JpaRepository y se paramétriza 
+#### 2.- En la capa de repositorio extender las interfases a JpaRepository y paramétrizarlo 
 
 ```
 public interface CategoriaRepository extends JpaRepository<Categoria,Long> {
