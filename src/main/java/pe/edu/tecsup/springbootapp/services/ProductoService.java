@@ -1,6 +1,6 @@
 package pe.edu.tecsup.springbootapp.services;
 
-import pe.edu.tecsup.springbootapp.dto.ProductoDTO;
+import pe.edu.tecsup.springbootapp.dtos.ProductoDTO;
 
 import java.util.List;
 import java.util.Optional;

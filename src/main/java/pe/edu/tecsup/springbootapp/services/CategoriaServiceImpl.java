@@ -3,7 +3,7 @@ package pe.edu.tecsup.springbootapp.services;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import pe.edu.tecsup.springbootapp.dto.CategoriaDTO;
+import pe.edu.tecsup.springbootapp.dtos.CategoriaDTO;
 import pe.edu.tecsup.springbootapp.mapper.CategoriaMapper;
 import pe.edu.tecsup.springbootapp.repositories.CategoriaRepository;
 

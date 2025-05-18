@@ -2,7 +2,7 @@ package pe.edu.tecsup.springbootapp.mapper;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-import pe.edu.tecsup.springbootapp.dto.ProductoDTO;
+import pe.edu.tecsup.springbootapp.dtos.ProductoDTO;
 import pe.edu.tecsup.springbootapp.entities.Producto;
 
 import java.time.LocalDateTime;

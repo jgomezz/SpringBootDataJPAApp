@@ -4,7 +4,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import pe.edu.tecsup.springbootapp.dto.ProductoDTO;
+import pe.edu.tecsup.springbootapp.dtos.ProductoDTO;
 import pe.edu.tecsup.springbootapp.mapper.ProductoMapper;
 import pe.edu.tecsup.springbootapp.repositories.ProductoRepository;
 

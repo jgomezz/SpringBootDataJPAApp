@@ -1,4 +1,4 @@
-package pe.edu.tecsup.springbootapp.dto;
+package pe.edu.tecsup.springbootapp.dtos;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
